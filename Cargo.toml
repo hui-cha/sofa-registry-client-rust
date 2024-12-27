@@ -1,0 +1,6 @@
+[package]
+name = "sofa-registry-client-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
